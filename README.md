@@ -10,6 +10,8 @@ Esse projeto é sobre análise de dados exploratória de um dataset criado pelo 
 
 -> Arquivo 1) Sell_analysis
 
+- Refaz os dados automaticamente e aleatoriamente toda vez que reexecutar os códigos em Sell_analysis.
+
 - Uso da blioteca pandas para criar o dataframe e fazer a correção dos dados, que envolve a transformação do tipo dos dados da coluna date e mes.
 
 - Geração automatica e aleatória das quantidades, preços e datas.
@@ -33,7 +35,9 @@ Esse projeto é sobre análise de dados exploratória de um dataset criado pelo 
 
 - Faz a conversão da lista tempo para periodindex e depois datetime.
 
-- Plotação do gráfico de faturamento com o tempo.
+- Plotação do gráfico de faturamento ao dos meses de 2023.
+
+- Exibe a quantidade eletrodomésticos e de mobilia.
 
 ### 🔧 Instalação
 
