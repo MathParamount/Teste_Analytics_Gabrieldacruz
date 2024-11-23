@@ -35,7 +35,7 @@ Esse projeto é sobre análise de dados exploratória de um dataset criado pelo 
 
 - Faz a conversão da lista tempo para periodindex e depois datetime.
 
-- Plotação do gráfico de faturamento ao dos meses de 2023.
+- Plotação do gráfico de faturamento ao longo dos meses de 2023.
 
 - Exibe a quantidade eletrodomésticos e de mobilia.
 
